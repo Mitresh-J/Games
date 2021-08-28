@@ -1,4 +1,9 @@
-# rem
+# remember to 
+# pip install requests
+# pip install bs4
+# in the terminal to run this code.
+# ALSO RUN ANY ONE OF THESE AT A TIME
+
 # <hangman>
 import requests
 import bs4
